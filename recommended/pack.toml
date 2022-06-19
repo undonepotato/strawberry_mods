@@ -1,0 +1,13 @@
+name = "Recommended"
+author = "Nebula"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b4de9c6e15b077c4b16a28865d345b8e7a98b5e21e31d496fed5c2ebdeba140e"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.19"

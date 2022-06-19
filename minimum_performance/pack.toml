@@ -1,0 +1,13 @@
+name = "Minimum + Performance"
+author = "Nebula"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ef20c435751f01542f059dfbdc1e6ea91f9619582d195fd7170b746931db5511"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.19"
