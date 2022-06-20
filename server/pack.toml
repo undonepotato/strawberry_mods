@@ -1,0 +1,13 @@
+name = "Server"
+author = "Nebula"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "faaaed6cbc1d65d021e483ff88aa92f62f8740780d57c64d2f89ababa2649316"
+
+[versions]
+fabric = "0.14.7"
+minecraft = "1.19"
