@@ -1,0 +1,13 @@
+name = "Netherite Beacons"
+filename = "netheritebeacons-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bkzQk249/versions/1.2.0/netheritebeacons-1.2.0.jar"
+hash-format = "sha1"
+hash = "0c00f99183b97778d4280c6bc46b3e064aa2feb5"
+
+[update]
+[update.modrinth]
+mod-id = "bkzQk249"
+version = "jji34OTa"
