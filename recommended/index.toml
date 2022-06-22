@@ -86,13 +86,13 @@ hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
 metafile = true
 
 [[files]]
-file = "mods/fallingleaves.pw.toml"
-hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
+file = "mods/fabric-seasons.pw.toml"
+hash = "49f67850a53a5313242731fd0568719c384946b4938de830d4535b063d250f40"
 metafile = true
 
 [[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "3e84222a0d8020efe132dff80b2fc01ff9a1768dcc39f5e41a80bf7cf501a628"
+file = "mods/fallingleaves.pw.toml"
+hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
 metafile = true
 
 [[files]]
@@ -106,8 +106,8 @@ hash = "e79631bd3118fe34254024dc2b2bc78e4a997cb7badf6830559d1b5a2f9c0417"
 metafile = true
 
 [[files]]
-file = "mods/golfiv.pw.toml"
-hash = "f989ddbc02b14382ece3a01bc9b97dcfc8062ef6bafb6c92344fe71f3a58e2e4"
+file = "mods/immersive-weathering.pw.toml"
+hash = "67669c0600277c52c7733cae69bbeb6ab39574482cf5099d5e0106f8e65cb75d"
 metafile = true
 
 [[files]]
@@ -126,8 +126,8 @@ hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
 
 [[files]]
-file = "mods/netherite-beacons.pw.toml"
-hash = "63faa426a21052ba289207476213413f474367c8ca44cf3d24d3037f71d32833"
+file = "mods/nether-chest.pw.toml"
+hash = "1aee3142b35fccdcd02743a6bca7c97894108b4d92f22fea3e7835e400882aa0"
 metafile = true
 
 [[files]]
@@ -136,8 +136,8 @@ hash = "8edea9854df19e8dce342bf7208cf726aa8955c83003778016c544874eed520a"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "eeb45495bd4c4d61ad3d8fa228d918602b4bf08f00e3a1241680825cc450709a"
+file = "mods/patchouli-fabric.pw.toml"
+hash = "c5a5ef45dea6e74f68e9db043d8896de234935146f50c595be7876a653c86f8d"
 metafile = true
 
 [[files]]
@@ -156,21 +156,6 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/terra.pw.toml"
-hash = "17d5717206c5f953a7ec07c87dbf57438031b91a2fc6fd56736d6b15a3b09bb0"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "8d3e7e2fac82ddf65920b8562004c527bf2bebebcc37902b506754037bfe6042"
-metafile = true
-
-[[files]]
-file = "mods/villagers-follow-emeralds-fabric.pw.toml"
-hash = "eb2a4fb8de33fac9656f00be775d4797d5f7d7041ef174ae2fd4ad33bb14bf6a"
-metafile = true
-
-[[files]]
 file = "mods/voidz.pw.toml"
 hash = "5603ee4d373dd8b20a1f4b901b85c40f6958e7956b4bdbf9e3f3c7555f437042"
 metafile = true
@@ -178,4 +163,9 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "313f391ab3a075a9e0b43cf40c91067184c21868be93da72a17b41e0d02c9436"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0807ea6c2d331838aee23ec8f6b41fe16fdab2869326306a637986962343b77f"
 metafile = true

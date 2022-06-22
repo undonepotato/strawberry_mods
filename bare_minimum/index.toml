@@ -56,13 +56,33 @@ hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "49f67850a53a5313242731fd0568719c384946b4938de830d4535b063d250f40"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e79631bd3118fe34254024dc2b2bc78e4a997cb7badf6830559d1b5a2f9c0417"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "67669c0600277c52c7733cae69bbeb6ab39574482cf5099d5e0106f8e65cb75d"
+metafile = true
+
+[[files]]
+file = "mods/nether-chest.pw.toml"
+hash = "1aee3142b35fccdcd02743a6bca7c97894108b4d92f22fea3e7835e400882aa0"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "8edea9854df19e8dce342bf7208cf726aa8955c83003778016c544874eed520a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "c5a5ef45dea6e74f68e9db043d8896de234935146f50c595be7876a653c86f8d"
 metafile = true
 
 [[files]]
