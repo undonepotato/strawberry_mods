@@ -7,7 +7,7 @@ Added Fabric Seasons (Watchlist)
 Added Xaero's Minimap (Direct)
 Added Roundaround’s Villager Converting (Direct)
 Added Immersive Weathering (Direct)
-Added Nether Chest (Direct)
+Added Nether Chest (Direct
 Added Patchouli (Watchlist)
 
 
