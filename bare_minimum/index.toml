@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "ace96529b99493efde4213b5a0ca53460ce18e4aa56379f93cab4e580a101e87"
+metafile = true
+
+[[files]]
+file = "mods/adventurez.pw.toml"
+hash = "2e48d1d09406596f818bdf041fc4edb0447228cbeedede4339abf7fb3f9ec7e4"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "b03190265255a5b36d3a4e466d278dca0a2a48069d91d72cbd38c123ba25ae9f"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "f3e66c8224bbcc006c745c977df127bd884f789aef5fc554ca5c1356271109dd"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "96dac7db9e58d1b778dcaad4679b75fe4d8c6195e6552061851fc5659b44fab6"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "4f92c8cbca88d3cb3c49994d33ff549addabd493f29ed415f1feb637fddbb820"
+metafile = true
+
+[[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "630f2a08fec8cbd13578bdd277bf664563c81ce94d1095b0a8e2a71f80819251"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components.pw.toml"
+hash = "107f1d03827dc107244600341de6c88ec242bcf656774d3c7de641fd24810e1b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "cf897a14537e23af6a7dab198d40a14a53580d3c072d15ebb60008efd5db5350"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "49f67850a53a5313242731fd0568719c384946b4938de830d4535b063d250f40"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e79631bd3118fe34254024dc2b2bc78e4a997cb7badf6830559d1b5a2f9c0417"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "67669c0600277c52c7733cae69bbeb6ab39574482cf5099d5e0106f8e65cb75d"
+metafile = true
+
+[[files]]
+file = "mods/nether-chest.pw.toml"
+hash = "1aee3142b35fccdcd02743a6bca7c97894108b4d92f22fea3e7835e400882aa0"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "8edea9854df19e8dce342bf7208cf726aa8955c83003778016c544874eed520a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "c5a5ef45dea6e74f68e9db043d8896de234935146f50c595be7876a653c86f8d"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "8d3e7e2fac82ddf65920b8562004c527bf2bebebcc37902b506754037bfe6042"
+metafile = true
+
+[[files]]
+file = "mods/voidz.pw.toml"
+hash = "5603ee4d373dd8b20a1f4b901b85c40f6958e7956b4bdbf9e3f3c7555f437042"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "313f391ab3a075a9e0b43cf40c91067184c21868be93da72a17b41e0d02c9436"
+metafile = true
