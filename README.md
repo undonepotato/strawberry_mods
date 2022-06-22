@@ -1,4 +1,17 @@
 # strawberry_mods
-Literally just to provide a URL for the files.
+**Current Version: 1.1.0**
+**Last updated 6/22/22**
 
-I am ***__not__*** learning HTML for this.
+Changelog:
+Added Fabric Seasons (Watchlist)
+Added Xaero's Minimap (Direct)
+Added Roundaround’s Villager Converting (Direct)
+Added Immersive Weathering (Direct)
+Added Nether Chest (Direct)
+Added Patchouli (Watchlist)
+
+
+Watchlisted XP Storage
+Watchlisted Spectrum
+
+-Nebula
