@@ -23,7 +23,14 @@ Watchlisted XP Storage
 
 Watchlisted Spectrum
 
+# Changelog (1.1.2)
+
+Updated Fabric Loader version to 14.8
+
+Fixed Fabric Seasons making server crash
+
 # Changelog (1.1.1)
+
 Fixed bug where Fabric Seasons would crash on both client and server
 
 Updated TOML files to match current version
