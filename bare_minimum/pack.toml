@@ -1,12 +1,12 @@
 name = "Bare Minimum"
 author = "Nebula"
-version = "1.0.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "99514e7a2b26f87b0d47c94d5b30efc629cc7a30f806936b7406b4d63eb020ab"
+hash = "e675c373b424fec83399294b44316752055a570135d289c43c43da63609c41e6"
 
 [versions]
 fabric = "0.14.7"

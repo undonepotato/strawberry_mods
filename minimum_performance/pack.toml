@@ -1,12 +1,12 @@
 name = "Minimum + Performance"
 author = "Nebula"
-version = "1.0.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "71a04368657f21f01a3bde6da674d48b37341e5b64eb7677f14ed5b60f3f995e"
+hash = "7813ded6d5a228b5769975d287e3bd8ff98f7c45ef3bad42a622df56929d145e"
 
 [versions]
 fabric = "0.14.7"

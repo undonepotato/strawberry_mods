@@ -1,12 +1,12 @@
 name = "Recommended"
 author = "Nebula"
-version = "1.0.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "732950cf43ca9034cb1fbfd50bde541dd8306466c47c8676152b7f09ad1ff60f"
+hash = "d10cfb76efaca5a54e9233478c1c4cc57039f4a9137a0cc596045bba349cf3db"
 
 [versions]
 fabric = "0.14.7"

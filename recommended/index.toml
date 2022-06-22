@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ef7ba7a2fca725ad5347728c4dd2ec445b0e4e6ba63da7de053a1bf5eff9c6c7"
+hash = "4deebf85ea442c1c37ee0dcdfea8b5be9105102ae88fc7dec0cff0752da1c1c7"
 metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
-hash = "1d3064093114a3cf1b2d1a4ec8047f29f211030545667a470b76d0d4822acebc"
+hash = "543fe4ee4e0ddc709bbaef7cf691c856e2609e042560172097efe90f19508a6e"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
+hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "358ffc2bfad0305580718cb6c57e501a372d087a6f27f0c37fa9001f461d0861"
+hash = "3a906e337c1299509b63c347c4383e224222d63be7acd4cc516f18945e62be3c"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "e79631bd3118fe34254024dc2b2bc78e4a997cb7badf6830559d1b5a2f9c0417"
+hash = "9e60361925b646e5adab5494c708b8774e2a49ed2d17a47384adcd513cf1c315"
 metafile = true
 
 [[files]]

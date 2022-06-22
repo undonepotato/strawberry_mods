@@ -1,12 +1,12 @@
 name = "Server"
 author = "Nebula"
-version = "1.0.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8677e22aaaf09e4ee0d7fb5440c785b9824cf67c76a8b7c881ba51c4a38bf1f2"
+hash = "d2cae4703dc8ad38b39e66ad90d05eef7c6568daa2d36f05f352b38cbffabcb7"
 
 [versions]
 fabric = "0.14.7"
