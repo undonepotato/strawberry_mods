@@ -1,5 +1,5 @@
 # Strawberry Mods Page
-**Current Version: 1.1.1**
+**Current Version: 1.1.2**
 
 **Last updated 6/22/22**
 
