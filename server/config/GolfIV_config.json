@@ -1,0 +1,93 @@
+{
+  "main": {
+    "_comment_checkInventoryActions": "// Prevents hitting/chatting with open GUI",
+    "checkInventoryActions": true,
+    "_comment_preventDestructionByPiston": "// Prevents headless pistons from destroying blocks that are not piston extensions.",
+    "preventDestructionByHeadlessPistons": true,
+    "_comment_allowedDestructibleByPiston_1": "// Allows headless pistons to destroy certain blocks when preventing destruction is enabled.",
+    "_comment_allowedDestructibleByPiston_2": "// Useful to allow only breaking of bedrock but denying destruction of barriers.",
+    "allowedDestructibleByHeadlessPistons": [
+      "minecraft:bedrock",
+      "minecraft:piston_head"
+    ],
+    "// What altitude in the nether should start inflicting void damage (e.g. 128). -1 disables it.": "",
+    "inflictNetherRoofDamage": -1
+  },
+  "items": {
+    "survival": {
+      "_comment_legalise": "// Whether to enable 'legalising' survival items.",
+      "_comment_legaliseWholeInventory": "// Whether to check whole inventory when connecting / changing dimensions, etc.",
+      "legaliseWholeInventory": true,
+      "_comment_bannedSurvivalItems": "// Which items should be cleared when clicked in survival inventory",
+      "bannedItems": [
+        "minecraft:barrier",
+        "minecraft:spawner",
+        "minecraft:structure_void",
+        "minecraft:bedrock",
+        "minecraft:command_block",
+        "minecraft:spawn_egg"
+      ],
+      "checkEnchants": true,
+      "checkPotionLevels": true,
+      "checkItemCount": true
+    },
+    "creative": {
+      "_comment_legaliseWholeInventory": "// Whether to check whole inventory when connecting / changing dimensions, etc.",
+      "legaliseWholeInventory": true,
+      "_comment_whitelistedNBT": "// Which NBT shouldn't be cleared",
+      "whitelistedNBT": [
+        "EntityTag",
+        "Enchantments",
+        "StoredEnchantments",
+        "BlockEntityTag",
+        "Damage",
+        "Potion",
+        "display"
+      ],
+      "_comment_removeCreativeNBTTags": "// Disallow all NBT tags in creative which aren't in whitelist section.",
+      "removeCreativeNBTTags": true,
+      "checkEnchants": true,
+      "checkPotionLevels": true,
+      "checkItemCount": false
+    }
+  },
+  "combat": {
+    "_comment": "// Combat checks settings.",
+    "preventWallHit": true,
+    "checkHitDistance": true,
+    "checkHitAngle": true
+  },
+  "packet": {
+    "_comment": "// Patches some outgoing server packets",
+    "removeTeleportData": true,
+    "removeHealthTags": true,
+    "_comment_allowedHealthTags_1": "// Allows health tags for certain entities.",
+    "_comment_allowedHealthTags_2": "// This maps entity ID to percentage as decimal.",
+    "allowedHealthTags": {
+      "minecraft:wolf": 0.0,
+      "minecraft:iron_golem": 0.25,
+      "minecraft:wither": 0.5
+    },
+    "removeEquipmentTags": true,
+    "checkPortalHack": true,
+    "patchSoundExploits": true,
+    "removeDroppedItemInfo": true,
+    "patchItemKickExploit": true
+  },
+  "movement": {
+    "_comment": "// Movement checks settings",
+    "yesFall": true
+  },
+  "duplication": {
+    "_comment": "// Duplication fixes",
+    "_comment_patchSaveLimit1": "// Whether to prevent throwing an error when saving large string data.",
+    "_comment_patchSaveLimit2": "// This is done by ignoring data after DataOutputStream limit.",
+    "_comment_patchSaveLimit3": "// Written books can reach that point with hacked clients.",
+    "patchSaveLimit": true,
+    "_comment_patchGravityBlock": "// Whether to disable gravity block duping.",
+    "patchGravityBlock": true,
+    "_comment_patchDeathDuplication1": "// Checks if player is connected before applying damage.",
+    "_comment_patchDeathDuplication2": "// Prevents duplicating inventory if player dies after disconnect.",
+    "patchDeathDuplication": true
+  }
+}
