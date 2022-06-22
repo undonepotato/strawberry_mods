@@ -28,5 +28,7 @@ Fixed bug where Fabric Seasons would crash on both client and server
 
 Updated TOML files to match current version
 
+Updated various mods and dependencies
+
 
 -Nebula
