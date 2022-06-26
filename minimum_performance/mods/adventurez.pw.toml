@@ -1,0 +1,13 @@
+name = "AdventureZ"
+filename = "adventurez-1.4.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f6becf0fefcce7cd236c1aa12b3bf58517af7ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3848727
+project-id = 390991

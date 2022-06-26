@@ -1,0 +1,13 @@
+name = "TerraBlender (Fabric)"
+filename = "TerraBlender-fabric-1.19-2.0.0.113.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff765f26751c35b2b25efc8ae51702c70c1d2f11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3838384
+project-id = 565956

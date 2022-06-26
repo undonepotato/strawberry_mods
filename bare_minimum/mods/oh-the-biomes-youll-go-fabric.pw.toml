@@ -1,0 +1,13 @@
+name = "Oh The Biomes You'll Go Refabricated"
+filename = "Oh_The_Biomes_You'll_Go-fabric-1.19-2.0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6a5470109e81cdce5de62156d205a3e35e15034"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3848139
+project-id = 391378
