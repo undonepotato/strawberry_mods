@@ -1,10 +1,12 @@
 # Strawberry Mods Page
-**Current Version: 1.1.3**
+**Current Version: 1.1.4**
 
 **Last updated 6/26/22**
 
 
 # Changelog (1.1.0)
+
+## Additions
 
 Added Fabric Seasons (Watchlist)
 
@@ -18,11 +20,19 @@ Added Nether Chest (Direct)
 
 Added Patchouli (Watchlist)
 
+## Watchlisted
 
-Watchlisted XP Storage
+Watchlisted XP Storage (Added 1.1.3)
 
 Watchlisted Spectrum
 
+# Changelog (1.1.4)
+## Bug Fixes
+Fixed non-existence of Terrablender making everything crash
+
+## Note
+As I have now actually installed GitHub Desktop, these hotfixes should be less common.
+Hopefully.
 # Changelog (1.1.3)
 
 ## Additions
