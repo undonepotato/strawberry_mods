@@ -1,5 +1,5 @@
 # Strawberry Mods Page
-**Current Version: 1.1.4**
+**Current Version: 1.1.5**
 
 **Last updated 6/26/22**
 
@@ -26,6 +26,12 @@ Watchlisted XP Storage (Added 1.1.3)
 
 Watchlisted Spectrum
 
+# Changelog (1.1.5)
+## Additions
+Added Iris in Recommended pack (Watchlist)
+
+## Note
+Of course, an hour after saying hotfixes will be less frequent, I realize I've forgotten to include Iris. Yay.
 # Changelog (1.1.4)
 ## Bug Fixes
 Fixed non-existence of Terrablender making everything crash
