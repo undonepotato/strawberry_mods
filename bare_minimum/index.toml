@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "76224d5c02a335313f7809ef14c6e4a3278c07a79e9a74e242b1988f60a6be85"
+hash = "8d3e7e2fac82ddf65920b8562004c527bf2bebebcc37902b506754037bfe6042"
 metafile = true
 
 [[files]]

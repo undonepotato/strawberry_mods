@@ -171,6 +171,11 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "8d3e7e2fac82ddf65920b8562004c527bf2bebebcc37902b506754037bfe6042"
+metafile = true
+
+[[files]]
 file = "mods/voidz.pw.toml"
 hash = "5603ee4d373dd8b20a1f4b901b85c40f6958e7956b4bdbf9e3f3c7555f437042"
 metafile = true
